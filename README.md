@@ -10,6 +10,12 @@ Software Architect at VMware, I leverage my 20+ years of experience in web appli
 * ✉️  You can contact me at [guyfromchennai@gmail.com](mailto:guyfromchennai@gmail.com)
 * See my portfolio at [KumarSundaram](https://www.kumarsundaram.com/)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akithememegod&label=Profile%20views&color=0e75b6&style=flat" alt="akithememegod" /> </p>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundaramkumar" alt="sundaramkumar" /></a> </p>
+
+
 ### Skills
 
 
