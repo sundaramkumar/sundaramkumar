@@ -13,7 +13,7 @@ Software Architect at VMware, I leverage my 20+ years of experience in web appli
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundaramkumar&label=Profile%20views&color=0e75b6&style=flat" alt="sundaramkumar" /> </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundaramkumar" alt="sundaramkumar" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundaramkumar&theme=flat&margin-w=15&margin-h=15" alt="sundaramkumar" /></a> </p>
 
 
 ### Skills
